@@ -1,0 +1,19 @@
+.about-container{
+    width: 95%;
+    margin: 2rem 1rem;
+    text-align: start;
+}
+
+.about-container h1{
+    margin-bottom: -5rem;
+}
+
+.about-container p{
+    padding-bottom: 1rem;
+}
+
+@media screen and (max-width:850px){
+    .about-container{
+        margin: 4rem 2rem;
+    }
+}
